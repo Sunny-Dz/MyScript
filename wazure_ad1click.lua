@@ -1,3 +1,4 @@
+script_key = "csrooQhPtbicNkOQxGPXnxVHkddKtRzT"
 getgenv().ExternalMacro = "link" --Optional
 getgenv().Setting = {
     Chapter = "FooshaVillage_Infinite",
